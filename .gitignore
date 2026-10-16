@@ -1,0 +1,12 @@
+# Keep recordings folder, but not the contents.
+recordings/*
+!recordings/.gitkeep
+
+# Generated Logic projects from users.
+Generated_Projects/
+
+# Audio files
+*.wav
+*.WAV
+*.aif
+*.aiff.DS_Store

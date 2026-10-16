@@ -1,0 +1,16 @@
+{
+    "KICK": "12BDRUM.WAV",
+    "MED-TOM": "13MTOM.WAV",
+    "BIG-TOM": "14BTOM.WAV",
+    "SNARE": "10SNARE.WAV",
+    "BASS": "07BASS.WAV",
+    "LEAD-GUITAR": "04LEAD.WAV",
+    "HARM-GUITAR": "05HARM.WAV",
+    "TOP-KEY": "15TKEY.WAV",
+    "TOP-KEY-DUP": "15TKEY.WAV",
+    "BOT-KEY": "16BKEY.WAV",
+    "BOT-KEY-DUP": "16BKEY.WAV",
+    "HARM-VOCAL": "02JaneDoe.WAV",
+    "TRI-VOCAL": "03JackDoe.WAV",
+    "LEAD-VOCAL": "01JohnDoe.WAV"
+}
